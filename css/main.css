@@ -10,11 +10,12 @@
 }
 
 
-.smallHeader{
+.footer{
 	colour: #ffffff;
 	font-family: Verdana, Geneva, sans-serf;
 	text-align: center;
 	font-size: 8px;
+	bottom: 0;
 }
 
 h1{
