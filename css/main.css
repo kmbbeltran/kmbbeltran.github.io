@@ -1,5 +1,5 @@
 footer{
-	colour: rgb(255,255,204); /* Pee yellow */
+	color: rgb(255,255,204); /* Pee yellow */
 	font-family: Verdana, Geneva, sans-serf;
 	text-align: center;
 	font-size: 10px;
@@ -14,13 +14,13 @@ header .row{
 
 header h1{
 	font-family: Verdana, Geneva, sans-serf;
-	colour: rgb(204,255,229);
+	color: rgb(204,255,229);
 	font-weight: 1000;
 }
 
 header p{
 	font-family: Verdana, Geneva, sans-serf;
-	color:  black;
+	color:  rgb(0,0,0);
 }
 
 body{
