@@ -42,20 +42,21 @@ body{
 .btn.btn-grocery {
 	border-radius: 2px;
   	border: 0px;
-  	color: black;
+  	color: rgb(0,0,0);
   	text-shadow: none;
   	background-color: #fbd1d5;
 }
 
 .btn.btn-primary:hover {
-  color: black;
+  color: #fbd1d5;
   background-color: rgb(255,255,255);
 }
 
 .btn.btn-resume{
 	border-radius: 2px;
 	border: 0px;
-	color: rgb(176,196,222);
+	color: rgb(0,0,0);
+	background-color: rgb(176,196,222);
 }
 
 .btn.btn-resume:hover{
