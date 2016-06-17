@@ -68,11 +68,11 @@ section .row{
   	border: 0px;
   	color: rgb(0,0,0);
   	text-shadow: none;
-  	background-color: rgb(229,204,255);
+  	background-color: rgb(204,229,255);
 }
 
 .btn.btn-grocery:hover {
-  color: rgb(229,204,255);
+  color: rgb(204,229,255);
   background-color: rgb(255,255,255);
 }
 
@@ -81,11 +81,11 @@ section .row{
   	border: 0px;
   	color: rgb(0,0,0);
   	text-shadow: none;
-  	background-color: rgb(229,204,255);
+  	background-color: rgb(204,229,255);
 }
 
 .btn.btn-brig:hover {
-  color: rgb(229,204,255);
+  color: rgb(204,229,255);
   background-color: rgb(255,255,255);
 }
 
@@ -94,11 +94,11 @@ section .row{
   	border: 0px;
   	color: rgb(0,0,0);
   	text-shadow: none;
-  	background-color: rgb(229,204,255);
+  	background-color: rgb(204,229,255);
 }
 
 .btn.btn-cs:hover {
-  color: rgb(229,204,255);
+  color: rgb(204,229,255));
   background-color: rgb(255,255,255);
 }
 
@@ -107,11 +107,11 @@ section .row{
   	border: 0px;
   	color: rgb(0,0,0);
   	text-shadow: none;
-  	background-color: rgb(229,204,255);
+  	background-color: rgb(204,229,255);
 }
 
 .btn.btn-python:hover {
-  color: rgb(229,204,255);
+  color: rgb(204,229,255);
   background-color: rgb(255,255,255);
 }
 
