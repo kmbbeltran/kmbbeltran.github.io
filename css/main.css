@@ -23,8 +23,9 @@ header p{
 	color:  black;
 }
 
-body content{
+body{
 	background-color: rgb(0,0,0);
+	text-align: center;
 }
 
 .col-md-6 {
