@@ -1,8 +1,8 @@
 footer{
-	color: rgb(255,255,204); /* Pee yellow */
+	color: rgb(0,0,0); /* Pee yellow */
 	font-family: Verdana, Geneva, sans-serf;
 	text-align: center;
-	font-size: 10px;
+	font-size: 16px;
 	bottom: 0;
 	padding: 20px 0;
 }
