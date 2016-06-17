@@ -83,6 +83,34 @@ section .row{
   background-color: rgb(255,255,255);
 }
 
+.btn.btn-cs {
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: #fbd1d5;
+}
+
+.btn.btn-cs:hover {
+  color: #fbd1d5;
+  background-color: rgb(255,255,255);
+}
+
+.btn.btn-python {
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: #fbd1d5;
+}
+
+.btn.btn-python:hover {
+  color: #fbd1d5;
+  background-color: rgb(255,255,255);
+}
+
+
+
 
 
 
