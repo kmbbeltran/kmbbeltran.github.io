@@ -2,14 +2,6 @@
   font-family: Verdana, Geneva, sans-serif;
 }
 
-
-.content{
-  text-align: center;
-  color: rgb(255,255,255);
-  font-family: Verdana, Geneva, sans-serif;
-}
-
-
 .footer{
 	colour: rgb(255,255,204); /* Pee yellow */
 	font-family: Verdana, Geneva, sans-serf;
@@ -33,4 +25,15 @@ body{
 	background-color: black;
 	color: rgb(255,255,255);
 	text-align: center;
+}
+
+.col-md-6 {
+  	margin: 0 0 30px;
+  	display: flex;
+	flex-wrap: wrap;
+}
+
+.description{
+	font-family: Verdana, Geneva, sans-serf;	
+	color: rgcb(255,255,255);
 }
