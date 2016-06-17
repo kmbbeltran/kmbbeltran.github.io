@@ -5,26 +5,32 @@
 
 .content{
   text-align: center;
-  color: #ffffff;
+  color: rgb(255,255,255);
   font-family: Verdana, Geneva, sans-serif;
 }
 
 
 .footer{
-	colour: #ccffff;
+	colour: rgb(255,255,204); /* Pee yellow */
 	font-family: Verdana, Geneva, sans-serf;
 	text-align: center;
 	font-size: 10px;
 	bottom: 0;
 }
 
+.button{
+	color: rgb(255,204,204); /* Blush pink */
+	font-family: Verdana, Geneva, sans-serf;
+	text-align: center;
+}
+
 h1{
 	font-family: Verdana, Geneva, sans-serf;
-	colour: #99FFFF;
+	colour: #99FFFF; /* Light Blue */
 }
 
 body{
 	background-color: black;
-	color: #ffffff;
+	color: rgb(255,255,255);
 	text-align: center;
 }
