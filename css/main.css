@@ -28,6 +28,12 @@ body{
 	text-align: center;
 }
 
+section .row{
+	margin: 0 0 30px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
 .col-md-6 {
   	margin: 0 0 30px;
   	display: flex;
@@ -37,19 +43,6 @@ body{
 .description{
 	font-family: Verdana, Geneva, sans-serf;	
 	color: black;
-}
-
-.btn.btn-grocery {
-	border-radius: 2px;
-  	border: 0px;
-  	color: rgb(0,0,0);
-  	text-shadow: none;
-  	background-color: #fbd1d5;
-}
-
-.btn.btn-primary:hover {
-  color: #fbd1d5;
-  background-color: rgb(255,255,255);
 }
 
 .btn.btn-resume{
@@ -63,3 +56,33 @@ body{
 	colour: rgb(176,196,222);
 	background-color: rgb(255,255,255);
 }
+
+.btn.btn-grocery {
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: #fbd1d5;
+}
+
+.btn.btn-grocery:hover {
+  color: #fbd1d5;
+  background-color: rgb(255,255,255);
+}
+
+.btn.btn-brig {
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: #fbd1d5;
+}
+
+.btn.btn-brig:hover {
+  color: #fbd1d5;
+  background-color: rgb(255,255,255);
+}
+
+
+
+
