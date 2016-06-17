@@ -1,15 +1,10 @@
-.footer{
+footer{
 	colour: rgb(255,255,204); /* Pee yellow */
 	font-family: Verdana, Geneva, sans-serf;
 	text-align: center;
 	font-size: 10px;
 	bottom: 0;
-}
-
-.button{
-	color: rgb(255,204,204); /* Blush pink */
-	font-family: Verdana, Geneva, sans-serf;
-	text-align: center;
+	padding: 20px 0;
 }
 
 header .row{
@@ -46,18 +41,18 @@ body{
 
 .description{
 	font-family: Verdana, Geneva, sans-serf;	
-	color: rgcb(255,255,255);
+	color: black;
 }
 
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #fbd1d5;
+  color: black;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #fbd1d5;
 }
 
 .btn.btn-primary:hover {
-  color: #ffffff;
+  color: black;
   background-color: #fbd1d5;
 }
