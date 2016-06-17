@@ -14,8 +14,8 @@ header .row{
 
 header h1{
 	font-family: Verdana, Geneva, sans-serf;
-	colour: #99FFFF; /* Light Blue */
-	font-weight: 700;
+	colour: rgb(204,255,229);
+	font-weight: 1000;
 }
 
 header p{
@@ -39,15 +39,26 @@ body{
 	color: black;
 }
 
-.btn.btn-primary {
-  border-radius: 2px;
-  border: 0px;
-  color: black;
-  text-shadow: none;
-  background-color: #fbd1d5;
+.btn.btn-grocery {
+	border-radius: 2px;
+  	border: 0px;
+  	color: black;
+  	text-shadow: none;
+  	background-color: #fbd1d5;
 }
 
 .btn.btn-primary:hover {
   color: black;
   background-color: rgb(255,255,255);
+}
+
+.btn.btn-resume{
+	border-radius: 2px;
+	border: 0px;
+	color: rgb(176,196,222);
+}
+
+.btn.btn-resume:hover{
+	colour: rgb(176,196,222);
+	background-color: rgb(255,255,255);
 }
