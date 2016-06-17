@@ -5,7 +5,7 @@
 
 .content{
   text-align: center;
-  color:SkyBlue;
+  color: SkyBlue;
   font-family: Verdana, Geneva, sans-serif;
   font-size: 0.75px;
 }
@@ -16,5 +16,7 @@ h1{
 }
 
 body{
-	color: back;
+	background-color: black;
+	color: #ffffff;
+	text-align: center;
 }
