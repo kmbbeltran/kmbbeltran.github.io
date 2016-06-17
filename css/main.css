@@ -9,6 +9,13 @@
   font-family: Verdana, Geneva, sans-serif;
 }
 
+
+.smallHeader{
+	colour: #ffffff;
+	font-family: Verdana, Geneva, sans-serf;
+	text-align: center;
+}
+
 h1{
 	font-family: Verdana, Geneva, sans-serf;
 	colour: #ffffff;
