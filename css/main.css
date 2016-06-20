@@ -19,6 +19,14 @@ header h1{
 	text-align: left;
 }
 
+header h2{
+	font-family: Verdana, Geneva, sans-serf;
+	color: rgb(176,196,222);
+	font-weight: 10000;
+	text-align: left;
+}
+
+
 header nav {
 	display: flex;
 	justify-content: flex-end;
