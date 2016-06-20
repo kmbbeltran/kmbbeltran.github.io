@@ -74,6 +74,10 @@ section .fact{
 	text-algin: left;
 }
 
+section ul{
+	text-align: left;
+}
+
 .btn.btn-resume{
 	border-radius: 2px;
 	border: 0px;
