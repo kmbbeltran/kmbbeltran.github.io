@@ -28,7 +28,6 @@ header h2{
 
 header nav {
 	display: flex;
-	justify-content: flex-end;
 }
 
 section .row{
@@ -47,6 +46,7 @@ section .row{
 	font-family: Verdana, Geneva, sans-serf;	
 	color: black;
 	padding: 0 30px;
+	text-algin: center;
 }
 
 .btn.btn-brig {
