@@ -61,10 +61,17 @@ section h3{
 	flex-wrap: wrap;
 }
 
-.description{
+section .description{
 	font-family: Verdana, Geneva, sans-serf;	
 	color: black;
 	padding: 0 30px;
+}
+
+section .fact{
+	font-family: Verdana, Geneva, sans-serf;	
+	color: black;
+	padding: 0 30px;
+	text-algin: left;
 }
 
 .btn.btn-resume{
