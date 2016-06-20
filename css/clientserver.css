@@ -1,1 +1,70 @@
+footer{
+	color: rgb(0,0,0); /* Pee yellow */
+	font-family: Verdana, Geneva, sans-serf;
+	text-align: center;
+	font-size: 10px;
+	bottom: 0;
+	padding: 20px 0;
+}
+
+header .row{
+	text-align: center;
+	padding: 20px 0;
+}
+
+header h1{
+	font-family: Verdana, Geneva, sans-serf;
+	color: rgb(176,196,222);
+	font-weight: 10000;
+}
+
+header nav {
+	display: flex;
+	justify-content: flex-end;
+}
+
+section .row{
+	margin: 0 0 30px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col-md-6 {
+  	margin: 0 0 30px;
+  	display: flex;
+	flex-wrap: wrap;
+}
+
+.description{
+	font-family: Verdana, Geneva, sans-serf;	
+	color: black;
+	padding: 0 30px;
+}
+
+.btn.btn-client {
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: rgb(204,229,255);
+}
+
+.btn.btn-client:hover {
+  color: rgb(204,229,255);
+  background-color: rgb(255,255,255);
+}
+
+.btn.btn-report {
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: rgb(204,229,255);
+}
+
+.btn.btn-report:hover {
+  color: rgb(204,229,255);
+  background-color: rgb(255,255,255);
+}
+
 
