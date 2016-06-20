@@ -48,6 +48,13 @@ section .row{
 	flex-wrap: wrap;
 }
 
+section h3{
+	font-family: Verdana, Geneva, sans-serf;
+	color: rgb(229,255,204);
+	font-weight: 10000;
+	text-align: left;
+}
+
 .col-md-6 {
   	margin: 0 0 30px;
   	display: flex;
