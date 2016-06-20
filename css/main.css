@@ -14,7 +14,7 @@ header .row{
 
 header h1{
 	font-family: Verdana, Geneva, sans-serf;
-	color: rgb(176,196,222);
+	color: rgb(51,102,204);
 	font-weight: 10000;
 	text-align: left;
 }
@@ -140,5 +140,18 @@ section ul{
 .btn.btn-python:hover {
   color: rgb(204,229,255);
   background-color: rgb(255,255,255);
+}
+
+.btn.btn-me{
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: rgb(176,196,222);
+}
+
+.btn.btn-me:hover{
+	color:rgb(176,196,222);
+	background-color: rgb(255,255,255);
 }
 
