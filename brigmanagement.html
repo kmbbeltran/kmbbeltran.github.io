@@ -42,9 +42,13 @@
         
         <div class="code">
           <textarea class="textbox" id="a3" readonly></textarea>
-          <script>$("#a3").load("test.txt");</script>
-          
-          
+          <!--<script>$("#a3").load("test.txt");</script> -->
+          <?php
+            $myfile ="test.txt"
+            if(file_exists($myfile)){
+              echo file_get_contents($myfile);
+            }
+          ?>
         </div>
         
         
