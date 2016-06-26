@@ -1,0 +1,62 @@
+footer{
+	color: rgb(0,0,0); /* Pee yellow */
+	font-family: Verdana, Geneva, sans-serf;
+	text-align: center;
+	font-size: 10px;
+	bottom: 0;
+	padding: 20px 0;
+}
+
+header .row{
+	text-align: center;
+	padding: 20px 0;
+}
+
+header h1{
+	font-family: Verdana, Geneva, sans-serf;
+	color: rgb(51,102,204);
+	font-weight: 10000;
+	text-align: left;
+}
+
+header h2{
+	font-family: Verdana, Geneva, sans-serf;
+	color: rgb(0,0,0);
+	font-weight: 10000;
+	text-align: left;
+}
+
+header nav {
+	display: flex;
+}
+
+section .row{
+	margin: 0 0 30px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col-md-10 {
+  	margin: 0 0 30px;
+  	display: flex;
+	flex-wrap: wrap;
+}
+
+.description{
+	font-family: Verdana, Geneva, sans-serf;	
+	color: black;
+	padding: 0 30px;
+}
+
+.btn.btn-ivanhoe {
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: rgb(204,229,255);
+}
+
+.btn.btn-ivanhoe:hover {
+  color: rgb(204,229,255);
+  background-color: rgb(255,255,255);
+}
