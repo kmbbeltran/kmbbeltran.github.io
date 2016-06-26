@@ -155,3 +155,16 @@ section ul{
 	background-color: rgb(255,255,255);
 }
 
+.btn.btn-ivanhoe{
+	border-radius: 2px;
+  	border: 0px;
+  	color: rgb(0,0,0);
+  	text-shadow: none;
+  	background-color: rgb(176,196,222);
+}
+
+.btn.btn-ivanhoe:hover{
+	color:rgb(176,196,222);
+	background-color: rgb(255,255,255);
+}
+
