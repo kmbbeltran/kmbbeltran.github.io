@@ -61,6 +61,12 @@ section .row{
 	padding: 10px 30px;
 }
 
+.documentation{
+	font-family: Verdana, Geneva, sans-serf;	
+	color: black;
+	padding: 10px 30px;
+}
+
 .btn.btn-ivanhoe {
 	border-radius: 2px;
   	border: 0px;
