@@ -46,19 +46,19 @@ section .row{
 .description{
 	font-family: Verdana, Geneva, sans-serf;	
 	color: black;
-	padding: 25px 30px;
+	padding: 10px 30px;
 }
 
 .features{
 	font-family: Verdana, Geneva, sans-serf;	
 	color: black;
-	padding: 25px 30px;	
+	padding: 10px 30px;	
 }
 
 .collaborators{
 	font-family: Verdana, Geneva, sans-serf;	
 	color: black;
-	padding: 25px 30px;
+	padding: 10px 30px;
 }
 
 .btn.btn-ivanhoe {
