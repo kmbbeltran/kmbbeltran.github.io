@@ -48,10 +48,6 @@ section .row{
 	padding: 25px 30px;
 }
 
-.button{
-	margin-right: 100px;
-}
-
 .btn.btn-ivanhoe {
 	border-radius: 2px;
   	border: 0px;
