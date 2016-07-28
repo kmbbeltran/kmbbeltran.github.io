@@ -36,6 +36,10 @@ section .row{
 	flex-wrap: wrap;
 }
 
+.top{
+	text-align: center;
+}
+
 .col-md-10 {
   	margin: 0 0 30px;
   	display: flex;
