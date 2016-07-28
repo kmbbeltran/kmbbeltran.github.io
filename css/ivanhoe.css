@@ -36,9 +36,6 @@ section .row{
 	flex-wrap: wrap;
 }
 
-.top{
-	text-align: center;
-}
 
 .col-md-10 {
   	margin: 0 0 30px;
@@ -77,3 +74,4 @@ section .row{
   color: rgb(204,229,255);
   background-color: rgb(255,255,255);
 }
+
