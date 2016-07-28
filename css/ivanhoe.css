@@ -45,7 +45,7 @@ section .row{
 .description{
 	font-family: Verdana, Geneva, sans-serf;	
 	color: black;
-	padding: 0 30px;
+	padding: 25px 30px;
 }
 
 .btn.btn-ivanhoe {
@@ -54,6 +54,7 @@ section .row{
   	color: rgb(0,0,0);
   	text-shadow: none;
   	background-color: rgb(204,229,255);
+  	margin: 25px 50px;
 }
 
 .btn.btn-ivanhoe:hover {
